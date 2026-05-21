@@ -1,4 +1,4 @@
-name:demohost1
+name: my-portfolio-deployment
 
 on:
   push:
